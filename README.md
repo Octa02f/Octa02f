@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Octa02f
-- 👀 I’m interested in Programming to get solutions 
+- 👀 I’m interested in Programming to get solutions, Not to solve problems
 - 🌱 I’m currently learning C#, Javascript SQL and Node.JS
 - 💞️ I’m looking to collaborate on any project that helps me learn and grow in the field
 - 📫 How to reach me octaviofrenkel03@gmail.com is my mail and@octaviofrenkel_ is personal instagram
